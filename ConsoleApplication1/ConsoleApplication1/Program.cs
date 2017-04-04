@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Feature Branch");
             Console.WriteLine("2nd Commit");
+            Console.WriteLine("3rd Commit");
         }
     }
 }
